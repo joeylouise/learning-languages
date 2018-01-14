@@ -1,0 +1,19 @@
+{
+  "name": "learning-languages",
+  "version": "1.0.0",
+  "description": "Somewhere to get translations of words / phrases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeylouise/learning-languages.git"
+  },
+  "author": "joeylouise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeylouise/learning-languages/issues"
+  },
+  "homepage": "https://github.com/joeylouise/learning-languages#readme"
+}
